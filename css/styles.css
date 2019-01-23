@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'VT323', monospace;
+  font-size: 5.625rem;
+
+
+
+}
+
+h2 {
+  font-family: 'VT323', monospace;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'VT323', monospace;
+  font-size: 1.5rem;
+}
+
+p {
+line-height: 2;
+  font-family: 'Open Sans', sans-serif;
+}
+.footer-link {
+color: grey;
+  text-decoration: none;
+line-height: 3;
+padding: 0 30px 0 30px;
+font-weight: 40;
+font-family: 'VT323', monospace;
+font-size: 1.5rem;
+}
+
+.footer-link:hover {
+  color: white;
+}
+.butn {
+  line-height: 10;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  color: #8d8f8f;
+  font-size: 20px;
+  background: #f0f0f0;
+  padding: 10px 20px 10px 20px;
+  border: dotted #828081 2px;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.butn:hover {
+  background: #ffffff;
+  text-decoration: none;
+}
+#pro {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d3d3d3;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto;
+}
+.subhead {
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+
+  font-weight: normal;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.avatar0 {
+  margin-top: 100px;
+  height: 128px;
+  width: 128px;
+
+}
+.avatar1 {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.avatar2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.top-container {
+
+background: #d9a7c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  background: #d9a7c7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding: 0 0 20px;
+}
+.footer-text {
+
+
+  color: #EAF6F6;
+  font-size: 14px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
